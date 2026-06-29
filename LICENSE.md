@@ -1,4 +1,4 @@
-# 
+# 高级 Revo Uninstaller 脚本 Mac OS版 | 高级 Revo Uninstaller 脚本 PC Windows版。集成 深度扫描 和 服务优化，跨平台性能最大化。
 
 
 
